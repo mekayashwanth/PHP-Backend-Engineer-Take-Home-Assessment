@@ -11,8 +11,8 @@ Testing the Endpoints with Postman
 Setup
 
 Clone the repository:
-git clone https://github.com/mekayashwanth/PHP-Backend-Engineer-Take-Home-Assessment-
-cd PHP-Backend-Engineer-Take-Home-Assessment-
+git clone https://github.com/mekayashwanth/PHP-Backend-Engineer-Take-Home-Assessment
+cd PHP-Backend-Engineer-Take-Home-Assessment
 
 Install dependencies:
 
